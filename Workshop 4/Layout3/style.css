@@ -13,3 +13,26 @@ div{
     height: 200px;
     width: 920px;
 }
+
+.content{
+    background-color:deepskyblue;
+    height:500px;
+    Width:920px;
+}
+
+.yellowbox{
+    
+    height: 460px;
+    background-color: floralwhite;
+    width: 430px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    height: 200px;
+    width: 920px;
+    float:left;
+}

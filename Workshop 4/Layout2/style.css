@@ -1,0 +1,31 @@
+div{
+    outline: 1px solid white
+        ;
+}
+
+.container{
+    width:920px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.header{
+    background-color:floralwhite;
+    height: 200px;
+    width: 920px;
+}
+
+.redbox{
+    background-color: antiquewhite;
+    width: 306.6px;
+    height: 400px;
+    float:left;
+}
+
+.footer{
+    background-color: papayawhip;
+    height: 200px;
+    width: 920px;
+    float:left;
+    
+}

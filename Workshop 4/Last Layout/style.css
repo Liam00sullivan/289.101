@@ -1,0 +1,153 @@
+div{
+    outline: 1px solid white;
+}
+
+.container{
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    background-color: #ffddfb;
+    width: 920px;
+    height: 70px;
+}
+
+.content{
+    background-color: #c4ffef;
+    width: 306.6px;
+    height: 50px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.content2{
+    background-color: #c4ffef;
+    width: 580px;
+    height: 50px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.greenbox{
+    background-color: #ade5ff;
+    width: 920px;
+    height: 600px;
+}
+
+.redbox{
+    background-color: #7cd5ff;
+    width: 920px;
+    height: 330px;
+}
+
+.redbox1{
+    background-color: #c4ffef;
+    width: 900px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.redbox2{
+    background-color: #c4ffef;
+    width: 290px;
+    height: 200px;
+    margin-left: 12.5px;
+    margin-top: 10px;
+    float: left;
+}
+
+.bluebox{
+    background-color: #ffddfb;
+    width: 920px;
+    height: 775px;
+}
+
+.blueboxheader{
+    background-color: #c4ffef;
+    width: 900px;
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.bluebox1{
+    background-color: #c4ffef;
+    height: 210px;
+    width: 210px;
+    margin-left: 17px;
+    margin-top: 17px;
+    float: left; 
+}
+
+.greenbox{
+    background-color: #7cd5ff;
+    width: 920px;
+    height: 630px;
+}
+
+.greenboxheader{
+    background-color: #c4ffef;
+    height: 100px;
+    width: 900px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.greenbox1{
+    background-color: #ffc1d6;
+    width: 293.5px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.blueboxx{
+    background-color: lightcyan;
+    width: 920px;
+    height: 420px;
+}
+
+.blueboxxheader{
+    background-color: #ade5ff;
+    width: 600px;
+    height 80px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.lastbox1{
+    background-color: lightpink;
+    width: 600px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.lastbox2{
+    background-color: lightpink;
+    width: 250px;
+    height 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.footer{
+    width: 920px;
+    height: 75px;
+    background-color: deepskyblue;
+}
+
+
+
+

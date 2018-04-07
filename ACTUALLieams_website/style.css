@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:100');
 
 div{
-    outline: 1px solid ellow;
+    outline: 1px solid yellow;
 }
 
 body{
@@ -11,7 +11,9 @@ body{
 }
 
 .header{
-    height: 104px;
+    height: 150px;
+    border-bottom: 5px solid #ffffff;
+    padding-bottom: 10px;
 }
 .Logo{
     height: 75px;
@@ -64,5 +66,16 @@ body{
 .links a:hover{
     color: #ffc6ea;
 }
+
+.banner{
+    padding: 20px;
+    text-align: center;
+}
+
+.banner img{
+    max-width: 780px;
+    width: 90%;
+}
+
     
     

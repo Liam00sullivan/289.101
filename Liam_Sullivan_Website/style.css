@@ -4,22 +4,29 @@ div{
     outline: 1px solid yellow;
 }
 
+a {
+text-decoration: none;
+}
+
 body{
     background-color: #dbf8ff;
     font-family: 'Raleway', sans-serif;
     width: 100%;
+        
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .header{
     height: 150px;
-    border-bottom: 5px solid #ffffff;
     padding-bottom: 10px;
 }
 .Logo{
     height: 75px;
     width: 300px;
-    margin-left: 620px;
-    margin-right: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
@@ -54,7 +61,7 @@ body{
     padding-top: 10px;
     text-align: center;
     width: auto;
-    font font-size: 10px;
+    font: 10px;
 }
 
 .links a{
@@ -67,15 +74,44 @@ body{
     color: #ffc6ea;
 }
 
-.banner{
-    padding: 20px;
-    text-align: center;
+.frontpage{
+    width: 1560px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
 
-.banner img{
-    max-width: 780px;
-    width: 90%;
+.headerfaq{
+    background-color: #ffffff;
+    width: 140px;
+    font-size: 60px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 10px;
 }
 
-    
+.navfaq{
+    background-color: #ffffff;
+    width: auto;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 20px;
+    float: left;
+}
+
+.navlinksfaq{
+    color: #4a4b4c;
+    padding: 10px;
+    font: 30px;
+}
+   
+.navlinksfaq a:hover{
+    color: #ffc6ea; 
+}
+
+.question1{
+    background-color: #ffffff;
+    float: none;
+}
     

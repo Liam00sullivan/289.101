@@ -52,8 +52,17 @@ body{
     padding-top: 10px;
     text-align: center;
     width: auto;
+    font font-size: 10px;
 }
 
+.links a{
+    color: #4a4b4c;
+    text-decoration: none;
+    
+}
 
+.links a:hover{
+    color: #ffc6ea;
+}
     
     

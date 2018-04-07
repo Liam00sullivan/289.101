@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:100');
 
 div{
-    outline: 1px solid yellow;
+    outline: 1px solid ellow;
 }
 
 a {
@@ -93,11 +93,10 @@ body{
 
 .navfaq{
     background-color: #ffffff;
-    width: auto;
+    width: 280px;
     margin-left: 20px;
     margin-right: auto;
     margin-top: 20px;
-    float: left;
 }
 
 .navlinksfaq{
@@ -112,6 +111,83 @@ body{
 
 .question1{
     background-color: #ffffff;
-    float: none;
+    float: left;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px; 
+    font-size: 40px;
+    font-kerning: 20px;
 }
+
+.answer1{
+    background-color: #ffffff;
+    color: #ffc6ea;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 20px;
+    margin-top: 95px;
+    width: 1130px;
+}
+
+.question2{
+    background-color: #ffffff;
+    float: left;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px; 
+    font-size: 40px;
+    font-kerning: 20px;
+}
+
+.answer2{
+    background-color: #ffffff;
+    color: #ffc6ea;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 20px;
+    margin-top: 95px;
+    width: 500px;
+}
+
+.question3{
+    background-color: #ffffff;
+    float: left;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px; 
+    font-size: 40px;
+    font-kerning: 20px;
+}
+
+.answer3{
+    background-color: #ffffff;
+    color: #ffc6ea;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 20px;
+    margin-top: 95px;
+    text-decoration: underline;
+    width: 65px;
+}
+
+.aboutheader{
+    padding: 10px;
+    background: #ffffff;
+    margin-left: 400px;
+    margin-top: 20px;
+    font-size: 40px;
+    width: 220px;       
+}
+
+.aboutbanner{
+    background-color: #ffffff;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    height: 80px;
+    width: 1650px;
+}
+
+
+
     

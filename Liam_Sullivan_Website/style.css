@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:100');
 
 div{
-    outline: 1px solid ellow;
+    outline: 1px solid pink;
 }
 
 a {
@@ -12,9 +12,6 @@ body{
     background-color: #dbf8ff;
     font-family: 'Raleway', sans-serif;
     width: 100%;
-        
-    overflow-x: hidden;
-    overflow-y: hidden;
 }
 
 .header{
@@ -24,13 +21,9 @@ body{
 .Logo{
     height: 75px;
     width: 300px;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 20px;
     background-color: white;
-    margin-left: auto;
-    margin-right: auto;
-    
+    margin-left: 70px;
 }
 
 .PIM{
@@ -39,27 +32,21 @@ body{
     padding-top: 5px;
     padding-bottom: 5px;
     font-size: 60px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .quote{
     background-color: #ffffff;
     max-width: 350px;
     margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
     padding-left: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
     padding-top: 10px;
+    margin-left: 70px;
 }
 
 .nav{
-    margin-left: auto;
-    margin-right: auto;
     padding-top: 10px;
-    text-align: center;
     width: auto;
     font: 10px;
 }
@@ -79,14 +66,14 @@ body{
     height: 700px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .headerfaq{
     background-color: #ffffff;
     width: 140px;
     font-size: 60px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 20px;
     padding: 10px;
 }
@@ -94,9 +81,9 @@ body{
 .navfaq{
     background-color: #ffffff;
     width: 280px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .navlinksfaq{
@@ -113,7 +100,7 @@ body{
     background-color: #ffffff;
     float: left;
     padding: 10px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 20px; 
     font-size: 40px;
     font-kerning: 20px;
@@ -124,7 +111,7 @@ body{
     color: #ffc6ea;
     font-size: 30px;
     padding: 5px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 95px;
     width: 1130px;
 }
@@ -133,7 +120,7 @@ body{
     background-color: #ffffff;
     float: left;
     padding: 10px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 20px; 
     font-size: 40px;
     font-kerning: 20px;
@@ -144,7 +131,7 @@ body{
     color: #ffc6ea;
     font-size: 30px;
     padding: 5px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 95px;
     width: 500px;
 }
@@ -153,7 +140,7 @@ body{
     background-color: #ffffff;
     float: left;
     padding: 10px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 20px; 
     font-size: 40px;
     font-kerning: 20px;
@@ -164,38 +151,124 @@ body{
     color: #ffc6ea;
     font-size: 30px;
     padding: 5px;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 95px;
     text-decoration: underline;
     width: 65px;
 }
 
-.aboutheader{
-    padding: 10px;
-    background: #ffffff;
-    margin-left: 400px;
-    margin-top: 20px;
-    font-size: 40px;
-    width: 220px;       
-}
-
-.aboutbanner{
-    background-color: #ffffff;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 10px;
-    height: 80px;
-    width: 1650px;
-}
-
 .milk{
     width: 254px;
     height: 236px;
-    margin-left: 50px;
+    margin-left: 90px;
     margin-right: auto;
     margin-top: 50px;
 }
 
+.aboutheader{
+    background-color: #ffffff;
+    width: 325px;
+    font-size: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.aboutbanner{
+    background-color: #ffffff;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 10px;
+    height: 80px;
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.aboutbanner a{
+    font-size: 50px;
+    font-style: italic;
+    color: #ffc6ea;
+}
+.aboutbanner b{
+    font-size: 80px;
+    font-style: italic;
+    color: #ff9edb;
+}
+
+.aboutnav{
+    background-color: #ffffff;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 280px;
+}
+
+.aboutnavlinks{
+    color: #4a4b4c;
+    padding: 10px;
+    font: 30px;
+}
+   
+.aboutnavlinks a:hover{
+    color: #ffc6ea; 
+}
+
+.xoxo{
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 110px;
+    
+}
+
+.gallerynav{
+    background-color: #ffffff;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 280px;
+}
+
+.gallerynavlinks{
+    color: #4a4b4c;
+    padding: 10px;
+    font: 30px;
+}
+
+.galleryheader{
+    background-color: #ffffff;
+    width: 190px;
+    font-size: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.greenrose{
+    padding-left: 70px;
+    margin-top: 20px;
+    width: 390px;
+    height: 250px;
+    float: left;
+}
+
+.cryingwoman{
+    margin-top: 20px;
+    width: 330px;
+    height: 440px;
+    float: left;
+    padding-left: 70px;
+}
+
+.angel{
+    margin-top: 70px;
+    width: 390px;
+    height: 595px;
+    padding-left; 70px;
+    float: left;
+
+}
 
 
     

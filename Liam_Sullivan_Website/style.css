@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:100');
 
 div{
-    outline: 1px solid pink;
+    outline: 1px solid ink;
 }
 
 a {
@@ -23,12 +23,14 @@ body{
     width: 300px;
     margin-top: 20px;
     background-color: white;
-    margin-left: 70px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .PIM{
     color: #4a4b4c;
-    padding-left: 75px;
+    padding-left: 55px;
+    padding-right: auto;
     padding-top: 5px;
     padding-bottom: 5px;
     font-size: 60px;
@@ -42,11 +44,13 @@ body{
     padding-bottom: 10px;
     padding-right: 10px;
     padding-top: 10px;
-    margin-left: 70px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .nav{
     padding-top: 10px;
+    padding-left: 50px;
     width: auto;
     font: 10px;
 }

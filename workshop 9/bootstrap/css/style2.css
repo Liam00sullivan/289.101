@@ -1,5 +1,4 @@
- body{
-    
+body{
 }
 
 .blue{
@@ -8,18 +7,9 @@
 }
 
 .green{
-    background-color: palegreen;
-    height: 150px;
-}
-
-.orange{
-    background-color: coral;
+    background-color: lawngreen;
     height: 100px;
-}
-
-.grey{
-    background-color: lightgrey;
-    height:50px;
+    
 }
 
 /* sm */
@@ -50,4 +40,4 @@
     body{
         background-color: purple;
     }
-}
+

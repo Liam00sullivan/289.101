@@ -1,0 +1,152 @@
+/* sm */
+@media (min-width:576px){
+    body{
+        background-image: url(BBB-Mobile-Home.jpg)
+    }
+}
+/* lg */
+@media (min-width:922px){
+    body{
+        background-image: url(BBB-Home-Desktop.jpg);
+        background-repeat: no-repeat;
+        background-size: 2500px;
+    }
+}
+
+.bbblogo{
+    background-color: red;
+   
+}
+
+.container {
+ height: 200px;
+    width: 430px;
+   position: relative;
+    top: 90px;
+    left: -20px;
+    border-color: aqua;
+}
+
+.homemobile {
+   float: left;
+   position: absolute;
+   height: 200px;
+   width: 430px;
+    border: 1px solid green;
+    left: -1px;
+}
+
+.homelarge{
+    float: left;
+    position: absolute;
+    height: 200px;
+    width: 330px;
+    border: 1px solid red;
+    left: 60px;
+    top: 10px;
+}
+
+.menumobile{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    border: 1px solid purple;
+    top: 570px;
+}
+
+.menularge{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    border: 1px solid purple;
+    top: 580px;
+    left: 40px;
+    border: 1px solid white;
+}
+
+.locationsmobile{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    border: 1px solid purple;
+    top: 670px;
+}
+
+.locationslarge{
+     float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    top: 725px;
+    left: 40px;
+    border: 1px solid white; 
+}
+
+.ourstorymobile{
+      float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    border: 1px solid purple;
+    top: 755px;
+}
+
+.ourstorylarge{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    top: 845px;
+    left: 40px;
+    border: 1px solid white;  
+}
+
+.workwithusmobile{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    border: 1px solid purple;
+    top: 845px;
+}
+
+.workwithuslarge{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    top: 975px;
+    left: 40px;
+    border: 1px solid white;  
+}
+
+.contactmobile{
+   float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    border: 1px solid purple;
+    top: 945px; 
+}
+
+.contactlarge{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    top: 1122px;
+    left: 40px;
+    border: 1px solid white;  
+}
+
+
+
+
+
+
+
+
+

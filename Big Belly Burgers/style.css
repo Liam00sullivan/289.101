@@ -2,6 +2,7 @@
 @media (min-width:576px){
     body{
         background-image: url(BBB-Mobile-Home.jpg)
+        
     }
 }
 /* lg */
@@ -141,6 +142,59 @@
     left: 40px;
     border: 1px solid white;  
 }
+
+.bun{
+    
+
+}
+
+.bunlarge{
+    float: left;
+    position: absolute;
+    height: 375px;
+    width: 1085px;
+    border: 2px solid aquamarine;
+    opacity: 60%;
+    top: 285px;
+    left: -85px;
+        
+}
+
+.bunmobile{
+    float:left;
+    position: absolute;
+    border: 2px solid black;
+    height: 265px;
+    width: 3000px;
+    top: 370px;
+    left: -30px;
+    
+    
+}
+
+.tomato{
+    float:left;
+    position: absolute;
+    border: 2px solid aquamarine;
+    height: 100px;
+    width: 750px;
+    left: -120px;
+    top: 700px;  
+}
+
+.cheese{
+    float:left;
+    position: absolute;
+    border: 2px solid aquamarine;
+    height: 80px;
+    width: 810px;
+    left: -120px;
+    top: 820px;  
+}
+
+
+
+
 
 
 

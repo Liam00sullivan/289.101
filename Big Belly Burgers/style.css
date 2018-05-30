@@ -1,7 +1,8 @@
 /* sm */
 @media (min-width:576px){
     body{
-        background-image: url(BBB-Mobile-Home.jpg)
+        background-image: url(BBB-Mobile-Home.jpg);
+        background-repeat: no-repeat;
     }
 }
 /* lg */
@@ -29,9 +30,9 @@
 
 .homemobile {
    float: left;
-   position: absolute;
-   height: 200px;
-   width: 430px;
+     position: absolute;
+    height: 200px;
+    width: 430px;
     border: 1px solid green;
     left: -1px;
 }
@@ -42,8 +43,8 @@
     height: 200px;
     width: 330px;
     border: 1px solid red;
-    left: 60px;
-    top: 10px;
+    left: 70px;
+    top: -20px;
 }
 
 .menumobile{
@@ -60,7 +61,7 @@
     position: absolute;
     height: 50px;
     width: 400px;
-    border: 1px solid purple;
+    border: px solid purple;
     top: 580px;
     left: 40px;
     border: 1px solid white;

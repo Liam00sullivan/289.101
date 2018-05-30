@@ -1,0 +1,44 @@
+/* sm */
+@media (min-width:576px){
+    body{
+        background-image: url(BBB-Menu-Mobile.jpg);
+        background-repeat: no-repeat;
+        
+    }
+}
+/* lg */
+@media (min-width:922px){
+    body{
+        background-image: url(BBB-Menu-Desktop.jpg);
+        background-repeat: no-repeat;
+        background-size: 2500px;
+    }
+}
+
+.container {
+ height: 200px;
+    width: 430px;
+   position: relative;
+    top: 60px;
+    left: -20px;
+    border-color: aqua;
+}
+
+.homemobile {
+   float: left;
+   position: absolute;
+   height: 200px;
+   width: 430px;
+    border: 1px solid green;
+    left: -1px;
+}
+
+.homelarge{
+    float: left;
+    position: absolute;
+    height: 210px;
+    width: 340px;
+    border: 1px solid red;
+    left: 30px;
+    top: 15px;
+}
